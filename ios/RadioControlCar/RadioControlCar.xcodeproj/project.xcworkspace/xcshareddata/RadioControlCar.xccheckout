@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AB088928-BBAC-4662-9E51-DEE596DCB1AC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RadioControlCar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D72C371833C771F44FBA587FD1BDFB761122FDC3</key>
+		<string>github.com:donkeykey/radicon_car.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/RadioControlCar/RadioControlCar.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D72C371833C771F44FBA587FD1BDFB761122FDC3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:donkeykey/radicon_car.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D72C371833C771F44FBA587FD1BDFB761122FDC3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D72C371833C771F44FBA587FD1BDFB761122FDC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RadiconCar</string>
+		</dict>
+	</array>
+</dict>
+</plist>

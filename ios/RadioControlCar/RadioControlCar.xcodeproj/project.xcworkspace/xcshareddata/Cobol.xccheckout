@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0ACF7E0-55B2-47A9-96B3-7B31DB99117C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Cobol</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C360114FDF6102B3688C26D4AF05600A4C93D40</key>
+		<string>github.com:donkeykey/Cobol.git</string>
+		<key>D72C371833C771F44FBA587FD1BDFB761122FDC3</key>
+		<string>github.com:donkeykey/radicon_car.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Cobol.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C360114FDF6102B3688C26D4AF05600A4C93D40</key>
+		<string>../..</string>
+		<key>D72C371833C771F44FBA587FD1BDFB761122FDC3</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:donkeykey/Cobol.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C360114FDF6102B3688C26D4AF05600A4C93D40</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D72C371833C771F44FBA587FD1BDFB761122FDC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C360114FDF6102B3688C26D4AF05600A4C93D40</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Cobol</string>
+		</dict>
+	</array>
+</dict>
+</plist>
